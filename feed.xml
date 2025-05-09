@@ -3,12 +3,34 @@
     <title>吉他控-吉他学习</title>
     <link href="https://shengge518.github.io/jtk/feed.xml" rel="self" />
     <link href="https://shengge518.github.io/jtk" />
-    <updated>2025-05-09T19:57:07+08:00</updated>
+    <updated>2025-05-09T20:05:58+08:00</updated>
     <author>
         <name>梵</name>
     </author>
     <id>https://shengge518.github.io/jtk</id>
 
+    <entry>
+        <title>周杰伦-爱在西元前吉他谱</title>
+        <author>
+            <name>梵</name>
+        </author>
+        <link href="https://shengge518.github.io/jtk/jay.html"/>
+        <id>https://shengge518.github.io/jtk/jay.html</id>
+            <category term="吉他谱"/>
+
+        <updated>2025-05-09T20:05:58+08:00</updated>
+            <summary>
+                <![CDATA[
+                    JAY 爱在西元前
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>JAY</p>
+<p>爱在西元前</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>王力宏-爱错吉他谱</title>
         <author>

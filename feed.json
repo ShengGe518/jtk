@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://shengge518.github.io/jtk/jay.html",
+            "url": "https://shengge518.github.io/jtk/jay.html",
+            "title": "周杰伦-爱在西元前吉他谱",
+            "summary": "JAY 爱在西元前",
+            "content_html": "<p>JAY</p>\n<p>爱在西元前</p>",
+            "author": {
+                "name": "梵"
+            },
+            "tags": [
+                   "吉他谱"
+            ],
+            "date_published": "2025-05-09T20:05:58+08:00",
+            "date_modified": "2025-05-09T20:05:58+08:00"
+        },
+        {
             "id": "https://shengge518.github.io/jtk/lihong.html",
             "url": "https://shengge518.github.io/jtk/lihong.html",
             "title": "王力宏-爱错吉他谱",
