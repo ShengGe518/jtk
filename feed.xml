@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>吉他控-吉他学习</title>
+    <link href="https://shengge518.github.io/jtk/feed.xml" rel="self" />
+    <link href="https://shengge518.github.io/jtk" />
+    <updated>2025-05-08T23:03:17+08:00</updated>
+    <author>
+        <name>梵</name>
+    </author>
+    <id>https://shengge518.github.io/jtk</id>
+
+    <entry>
+        <title>赵雷-成都吉他谱原版含间奏</title>
+        <author>
+            <name>梵</name>
+        </author>
+        <link href="https://shengge518.github.io/jtk/chengdu.html"/>
+        <id>https://shengge518.github.io/jtk/chengdu.html</id>
+            <category term="吉他谱"/>
+
+        <updated>2025-05-08T22:54:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                    一直喜欢赵雷
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>一直喜欢赵雷</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
