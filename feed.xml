@@ -3,12 +3,34 @@
     <title>吉他控-吉他学习</title>
     <link href="https://shengge518.github.io/jtk/feed.xml" rel="self" />
     <link href="https://shengge518.github.io/jtk" />
-    <updated>2025-05-08T23:03:17+08:00</updated>
+    <updated>2025-05-09T19:57:07+08:00</updated>
     <author>
         <name>梵</name>
     </author>
     <id>https://shengge518.github.io/jtk</id>
 
+    <entry>
+        <title>王力宏-爱错吉他谱</title>
+        <author>
+            <name>梵</name>
+        </author>
+        <link href="https://shengge518.github.io/jtk/lihong.html"/>
+        <id>https://shengge518.github.io/jtk/lihong.html</id>
+            <category term="吉他谱"/>
+
+        <updated>2025-05-09T19:56:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    王力宏 王力宏
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>王力宏</p>
+<p>王力宏</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>赵雷-成都吉他谱原版含间奏</title>
         <author>

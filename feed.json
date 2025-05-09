@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://shengge518.github.io/jtk/lihong.html",
+            "url": "https://shengge518.github.io/jtk/lihong.html",
+            "title": "王力宏-爱错吉他谱",
+            "summary": "王力宏 王力宏",
+            "content_html": "<p>王力宏</p>\n<p>王力宏</p>",
+            "author": {
+                "name": "梵"
+            },
+            "tags": [
+                   "吉他谱"
+            ],
+            "date_published": "2025-05-09T19:56:48+08:00",
+            "date_modified": "2025-05-09T19:57:07+08:00"
+        },
+        {
             "id": "https://shengge518.github.io/jtk/chengdu.html",
             "url": "https://shengge518.github.io/jtk/chengdu.html",
             "title": "赵雷-成都吉他谱原版含间奏",
