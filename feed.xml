@@ -3,10 +3,30 @@
     <title>吉他控</title>
     <link href="https://shengge518.github.io/jtk/feed.xml" rel="self" />
     <link href="https://shengge518.github.io/jtk" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-07-11T16:30:05+08:00</updated>
     <author>
         <name>Kong</name>
     </author>
     <id>https://shengge518.github.io/jtk</id>
 
+    <entry>
+        <title>测试</title>
+        <author>
+            <name>Kong</name>
+        </author>
+        <link href="https://shengge518.github.io/jtk/ce-shi.html"/>
+        <id>https://shengge518.github.io/jtk/ce-shi.html</id>
+
+        <updated>2025-07-11T16:30:05+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
